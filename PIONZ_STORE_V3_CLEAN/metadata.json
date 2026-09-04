@@ -1,0 +1,6 @@
+{
+  "name": "PIONZ STORE - Jual Beli Akun Free Fire",
+  "description": "Website resmi PIONZ STORE untuk jual beli akun Free Fire terpercaya, amanah, dan bergaransi anti hackback dengan admin panel pribadi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
